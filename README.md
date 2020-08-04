@@ -1,17 +1,7 @@
-# LetPHP Framework
+# LetPHP Framework - Videos de Entrenamiento
 
 <img src="http://letphp.run/facebook-card.png" style="zoom:50%;" />
 
-LetPHP, es un framework escrito en PHP para que puedas crear grandiosos proyectos de manera simple.
-
-
-
-* Ajax
-* Bases de Datos
-* Fragmentos
-* Modelos
-* Controladores
-* Motor de plantilla 
-
+Son algunos videos sobre como utilizar LetPHP Framework.
 
 
